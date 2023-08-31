@@ -1,5 +1,5 @@
 ﻿     // первый вариант с целыми числами, которые делятся др на др цельно
-// int numberA = 10;
+// int numberA = 12;
 // int numberB = 5;
 // Console.WriteLine(numberA / numberB);
 
@@ -17,6 +17,6 @@
 // переводится как "двойной" или "двойной точности"
 // "double" это тип данных в языке программирования, который представляет числа с плавающей точкой 
 // с большей точностью, чем тип данных "float"
-int numberA = 12;
-int numberB = 5;
+double numberA = 12;
+double numberB = 5;
 Console.WriteLine(numberA / numberB);
