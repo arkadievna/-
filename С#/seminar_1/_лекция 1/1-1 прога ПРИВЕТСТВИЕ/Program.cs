@@ -15,9 +15,9 @@ Console.WriteLine(username);
 
 // это вставка не из урока
 // if (int.TryParse(username, out int n))
-{
-   Console.WriteLine("Имя не может быть числом. Пожалуйста, введите текстовое имя.");
-}
+// {
+//   Console.WriteLine("Имя не может быть числом. Пожалуйста, введите текстовое имя.");
+// }
 // else
 // {
 //   Console.WriteLine("Привет, " + username + ".");
