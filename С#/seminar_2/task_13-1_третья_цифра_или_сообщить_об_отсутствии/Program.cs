@@ -3,6 +3,7 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
+// при этом решении выходит третья цифра с конца числа
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
     
@@ -19,4 +20,3 @@ int thirdDigit = (number / 100) % 10;
 Console.WriteLine($"Третья цифра числа {number} - {thirdDigit}");
 }
 
-// при этом решении выходит третья цифра с конца числа
