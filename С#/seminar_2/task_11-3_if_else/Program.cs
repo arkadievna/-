@@ -5,8 +5,11 @@ Console.Write("Введите число: ");
 string stringNum = Console.ReadLine()??"0";
 int num = Convert.ToInt32(stringNum);
 
-if (num == -1) return;
-if (stringNum.Length != 3)
+if (num == -1) return; // если значение переменной "num" равно -1, 
+// то функция прекращает свое выполнение и возвращает управление на вызывающий код.
+
+if (stringNum.Length != 3) // если длина строки "stringNum" не равна 3, 
+// то выполняется код внутри блока if.
     Console.WriteLine("Число не трёхзначное");
 else
 {
