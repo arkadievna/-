@@ -3,6 +3,7 @@
 // 5 -> 1, 4, 9, 16, 25.
 // 2 -> 1,4
 
+// первое решение
 Console.WriteLine("Введите число N:");
 int N = Convert.ToInt32(Console.ReadLine());
 

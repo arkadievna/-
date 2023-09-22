@@ -1,43 +1,13 @@
-﻿Console.Clear();
+﻿﻿//Задача №17
+//Напишите программу, которая принимает на вход координаты точки (X и Y),
+// причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.
 
-int xa = 4, ya = 1,
-    xb = 1, yb = 10,
-    xc = 8, yc = 10;
+//1) ввести x
+//2) ввести y
+//3) поиск ответа
+//4) вывести результат
 
-Console.SetCursorPosition(xa, ya);
-Console.WriteLine("+");
 
-Console.SetCursorPosition(xb, yb); 
-Console.WriteLine("+");
 
-Console.SetCursorPosition(xc, yc); 
-Console.WriteLine("+");
- 
-int x = xa, y = ya;
-int count = 0;
-while (count < 10) 
-{
-    int what = new Rundom().Next(0, 3);
-    if (what == 0) 
-    {
-         x = (x + xa) / 2;
-         y = (y + ya) / 2;
-    }
 
-     if (what == 1)
-    {
-         x = (x + xb) / 2;
-         y = (y + yb) / 2;
-    }
 
-     if (what == 2)
-    {
-         x = (x + xc) / 2;
-         y = (y + yc) / 2;
-    }
-
-Console.SetCursorPosition(x, y); 
-Console.WriteLine("+");
-
-count++; 
-} 
