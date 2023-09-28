@@ -1,0 +1,5 @@
+E:\Юлия\УЧЁБА\- Языки программирования\первые_шаги_написания_программы\Тук_тук_Neo\obj\Debug\net7.0\Тук_тук_Neo.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\- Языки программирования\первые_шаги_написания_программы\Тук_тук_Neo\obj\Debug\net7.0\Тук_тук_Neo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\- Языки программирования\первые_шаги_написания_программы\Тук_тук_Neo\obj\Debug\net7.0\Тук_тук_Neo.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\- Языки программирования\первые_шаги_написания_программы\Тук_тук_Neo\obj\Debug\net7.0\Тук_тук_Neo.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\- Языки программирования\первые_шаги_написания_программы\Тук_тук_Neo\obj\Debug\net7.0\Тук_тук_Neo.csproj.CoreCompileInputs.cache
